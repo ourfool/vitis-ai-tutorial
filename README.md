@@ -154,7 +154,8 @@ $ conda activate vitis-ai-caffe
 ```
 {"target": "dpuv2", "dcf": "./ULTRA96V2.dcf", "cpu_arch": "arm64"}
 ```
-　続いて、モデルの変換作業をおこなっていきます。
+
+続いて、モデルの変換作業をおこなっていきます。
 ```
 (vitis-ai-caffe) $ mkdir compiled_output
 ```
